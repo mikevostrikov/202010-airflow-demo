@@ -1,0 +1,7 @@
+airflow-webserver.pid
+airflow.db
+unittests.cfg
+logs/
+usr/
+__pycache__/
+*.swp
